@@ -14,4 +14,5 @@ Repositório de arquivos para importação e exemplo no Power BI
 
 <ul>
 <li>como-ler-dados-do-google-sheets-no-power-bi.pbix</li>
+<li>Times_SerieA_Brasileiro20_21 - Sheet1.csv</li>
 </ul>
