@@ -1,0 +1,33 @@
+Seleção, Número de Participações
+Rússia, 11
+Alemanha, 19
+Brasil, 21
+Portugal, 7
+Argentina, 17
+Bélgica, 13
+Polônia, 8
+França, 15
+Espanha, 15
+Peru, 5
+Suíça, 11
+Inglaterra, 15
+Colômbia, 6
+México, 16
+Uruguai, 13
+Croácia,
+Dinamarca, 5
+Islândia, 1
+Costa Rica, 5
+Suécia, 12
+Tunísia, 5
+Egito, 3
+Senegal, 2
+Irã, 5
+Sérvia, 12
+Nigéria, 6
+Austrália,
+Japão, 6
+Marrocos, 5
+Panamá, 1
+Coreia do Sul, 10
+Arábia Saudita, 5
