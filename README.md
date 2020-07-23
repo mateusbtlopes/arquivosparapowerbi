@@ -1,7 +1,7 @@
 # Arquivos para Power BI
 Repositório de arquivos para importação e exemplo no Power BI
 
-## 10 passos para ler arquivos excel no Power BI
+## Como ler arquivos Excel no Power BI
 
 <ul>
 <li>10-passos-para-ler-arquivos-excel-no-powerbi.pbix</li>
@@ -17,7 +17,7 @@ Repositório de arquivos para importação e exemplo no Power BI
 <li>Times_SerieA_Brasileiro20_21 - Sheet1.csv</li>
 </ul>
 
-## Como ler dados de arquivos Texto no Power BI
+## Como ler arquivos Texto no Power BI
 
 <ul>
 <li>como-ler-dados-de-arquivos-texto-no-power-bi.pbix</li>
