@@ -1,4 +1,4 @@
-# ArquivosPowerBI
+# Arquivos para Power BI
 Repositório de arquivos para importação e exemplo no Power BI
 
 ## 10 passos para ler arquivos excel no Power BI
