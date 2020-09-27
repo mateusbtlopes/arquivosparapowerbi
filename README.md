@@ -7,6 +7,7 @@ Repositório de arquivos para importação e exemplo no Power BI
 <li>10-passos-para-ler-arquivos-excel-no-powerbi.pbix</li>
 <li>EmpresasListadasnaBolsaB3.xlsx</li>
 <li>EstadosBrasileiros.xls</li>
+<li>Exportação de Carros.xlsx</li>
 <li>ListadePilotosF12020.xlsm</li>
 </ul>
   
