@@ -1,0 +1,23 @@
+Andre Sabino,Masculino,Consultor,TI
+Fernanda Matins,Masculino,Escritora,Redação
+José D. Andrade,Masculino,Escritor,Redação
+José R. Giovanni,Masculino,Professor,Educacional
+Cláudio José,Masculino,Professor,Educacional
+Paulo Roberto,Masculino,Advogado,Autônomo
+Raquel Moreira,Feminino,Gerente,Recursos Humanos
+Renata Assis,Feminino,Assistente,TI
+Bruno Augusto,Masculino,CEO,TI
+Helena Martins,Feminino,Secretária,Diretoria
+Roberta Miranda,Masculino,Professora,Relações Humanas
+Roberto Silva,Feminino,Auxiliar,Patologia Clínica
+Tânia Cristina,Feminino,Coordenadora,TI
+Péricles Assis,Masculino,Analista de Suporte,TI
+Marcela Moreira,Feminino,Administradora,RH
+Tatiana Castro da Silva,Feminino,Jornalista,Redação
+Rogério Souza,Masculino,Diretor,Comercial
+Ana Carolina,Feminino,Gerente,Financeiro
+Alexandra de Almeida Freitas,Feminino,Corretora,Comercial
+Odette de Almeida,Feminino,Professora,Educacional
+Alexandre Pimenta,Masculino,Engenheiro Civil,Obras
+Sandra Diogo Vasconcelos,Feminino,Decoradora,Obras
+Rodrigo,Masculino,Enfermeiro,Saúde

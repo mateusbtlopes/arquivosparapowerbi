@@ -1,0 +1,23 @@
+Andrey Martins,Masculino,Consultor,TI
+Fernando Sabino,Masculino,Escritor,Redação
+Carlos D. Andrade,Masculino,Escritor,Redação
+José R. Giovanni,Masculino,Professor,Educacional
+Cláudia Maria,Feminino,Professora,Educacional
+Paulo Roberto,Masculino,Motorista,Autônomo
+Raquel Almeida,Feminino,Auxiliar,Recursos Humanos
+Renata Assis,Feminino,Assistente,TI
+Bruno Augusto,Masculino,Diretor,TI
+Helena Martins,Feminino,Secretária,Diretoria
+Roberto Miranda,Masculino,Professor,Relações Humanas
+Roberta Silva,Feminino,Auxiliar,Patologia Clínica
+Tamires Cristina,Feminino,Coordenadora,TI
+Antônio Assis,Masculino,Analista de Suporte,TI
+Ana Moreira,Feminino,Administradora,RH
+Maria Angelica Castro da Silva,Feminino,Jornalista,Redação
+Rogério Souza,Masculino,Diretor,Comercial
+Carolina Oliveira,Feminino,Gerente,Financeiro
+Alexandra de Almeida Freitas,Feminino,Corretora,Comercial
+Mariana de Souza,Feminino,Professora,Educacional
+Alexandre Pereira,Masculino,Engenheiro Civil,Obras
+Diogo Vasconcelos,Masculino,Decorador,Obras
+Rosangela,Masculino,Enfermeira,Saúde
